@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ブルーナイトダーリン",
+  "base_artist": "明透",
+  "createdAt": "2026-01-02T07:42:14.315427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ブルーナイトダーリン (blue night darling)",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/01_ブルーナイトダーリン_(blue_night_darling)_明透.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ブルーナイトダーリン",
+      "artist": "asu",
+      "has_synced": true,
+      "path": "select/02_ブルーナイトダーリン_asu.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ブルーナイトダーリン - blue night darling",
+      "artist": "ASU",
+      "has_synced": true,
+      "path": "select/03_ブルーナイトダーリン_-_blue_night_darling_ASU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブルーナイトダーリン",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_ブルーナイトダーリン_明透.txt"
+    }
+  ]
+}
